@@ -1,5 +1,13 @@
-"id":1,
-"name": "",
-"description": "",
-"price": "",
-"course length": "",
+[
+    {
+      "id":1,
+      "name": "Coding Basics",
+      "description": "Build A Basic HTML Site",
+      "price": 100,
+      "course_length": "1 week"
+    },
+    {
+      "id":2,
+      "name": ""
+    }
+]
